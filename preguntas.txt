@@ -1,0 +1,4 @@
+¿Que usamos para invocar el siguiente métodos : def Say?/say
+¿Cómo se le llama al concepto de llamar métodos a sí mismo?/recursion
+¿Con qué palabra definimos un método?/def
+¿Cuál es el 'numero' de valores Booleanos en Ruby?/2
